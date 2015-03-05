@@ -287,7 +287,6 @@ This application requires the following:
 
   * [Python 3](http://www.python.org/getit/) +
   * [tmux 1.8](http://tmux.sourceforge.net/) +
-  * [pandoc 1.12](http://johnmacfarlane.net/pandoc/) +
 
 #### Installation Guide
 
